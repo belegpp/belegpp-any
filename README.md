@@ -1,7 +1,7 @@
 # Belegpp-Any
 
-[![Last Commit](https://img.shields.io/github/last-commit/belegpp/belegpp-any?style=for-the-badge)](https://github.com/Git-Curve/belegpp/commits)
-[![License](https://img.shields.io/github/license/belegpp/belegpp-any?style=for-the-badge)](https://github.com/Git-Curve/belegpp/blob/master/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/belegpp/belegpp-any?style=for-the-badge)](https://github.com/belegpp/belegpp-any/commits)
+[![License](https://img.shields.io/github/license/belegpp/belegpp-any?style=for-the-badge)](https://github.com/belegpp/belegpp-any/blob/master/LICENSE)
 
 ## What is this?
 Belegpp-Any is like std::any but allows for unsafe casts, it provides methods like `is`, `get`, `getUnsafe` and is automatically castable.
