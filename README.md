@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/belegpp/belegpp-any?style=for-the-badge)](https://github.com/belegpp/belegpp-any/blob/master/LICENSE)
 
 ## What is this?
-Belegpp-Any is like std::any but allows for unsafe casts, it provides methods like `is`, `get`, `getUnsafe` and is automatically castable.
+Belegpp-Any is like std::any but allows for unsafe casts, it provides methods like `is`, `get`, `safeGet` and is automatically castable.
 I wrote this specifically for belegpp-reflections as std::any didn't fit my needs.
 
 ## Example
